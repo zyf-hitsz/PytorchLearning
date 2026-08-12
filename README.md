@@ -1,5 +1,5 @@
 # PytorchLearning
-Pytorch官方教程的学习代码
+Pytorch官方教程的学习代码+神经网络的综合学习
 
 阅读顺序：
 pytorch基础：NOTEBOOKS
